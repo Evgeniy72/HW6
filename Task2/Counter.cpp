@@ -1,7 +1,5 @@
-﻿
+﻿#include "Function.h"
 #include <iostream>
-#include "Function.h"
-
 int main()
 {
 	setlocale(LC_ALL, "Russian");
